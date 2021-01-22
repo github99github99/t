@@ -1,0 +1,10 @@
+adds in vs code :
+
+1- sass (is for syntax)
+2- sass/less/pug/stylus/java
+3- live sass compiler
+4- pug (is for syntax)
+5- gulp (is for syntax)
+6- minify or minifyAll
+7- Live Server (for show any edit whitout refresh)
+8- 

@@ -1,0 +1,15 @@
+after you install gulpjs and sass and pugjs and git go to use :
+
+@ for git 
+1- git init 
+
+@ for gulpjs
+1- npm init
+2- npm install --save-dev gulp
+
+
+@for pugjs
+1- npm init -y and npm install express pug
+2- for install (npm install pug)
+3- npm install pug-cli -g  # this is first then the upper
+4- pug -w ./ -o ./html -P 

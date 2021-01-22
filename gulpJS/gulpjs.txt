@@ -1,0 +1,54 @@
+install gulp : 
+
+    npm install --global gulp-cli
+
+      npx mkdirp my-project
+      cd my-project
+
+npm init
+
+    npm install --save-dev gulp
+
+@install still hte gulpjs is :
+npm install gulp@3.9.1 --save
+
+
+create gulpfile.js :
+
+function defaultTask(cb) {
+  // place code for your default task here
+  cb();
+}
+
+exports.default = defaultTask
+
+
+gulp
+
+======================================================================================
+                      *********** here is important ***********
+
+1- downloade nodeJS
+2- put path nodeJS (C:\Program Files\nodejs) (%AppData%\npm\node_modules)
+		   (%AppData%\npm) (C:\Program Files\nodejs\node_modules\npm)
+this is the best   (;C:\Program Files\nodejs\)
+3- check (node -v) or (npm -v)
+4- write in cmd (npm install gulp@3.9.1 --save)
+5- put path gulp (%AppData%\npm\node_modules\gulp-cli)
+6- check (gulp -v)
+
+
+################################## read impotant ################################## 
+
+
+
+################################## read impotant ################################## 
+
+                      *********** here is important ***********
+=======================================================================================
+issou :
+If gulp has been installed globally, you can use the process below:
+
+Create an environmental variable called NODE_PATH
+Set it to: %AppData%\npm\node_modules or %AppData%\npm on windows 8-10     --> jsut put in path one of them
+Close CMD, and Re-Open to get the new ENV variables

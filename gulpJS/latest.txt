@@ -1,0 +1,16 @@
+1- download nodeJS and path (C:\Program Files\nodejs) and (C:\Users\YourUser\AppData\Roaming\npm)
+2- node -v
+-> v10.13.0
+3- npm -v 
+-> 6.4.1
+4- npm init
+-> done
+5- npm install gulp@3.9.1 --save
+-> done
+6- npm install --save-dev gulp
+-> done
+7- npm -g install gulp-cli
+-> done
+8- gulp -v 
+-> CLI version: 2.3.0
+   Local version: 3.9.1

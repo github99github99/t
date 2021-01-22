@@ -1,0 +1,22 @@
+Hi! ✋
+I had similar problem and solved it following this steps before gulp watch.
+
+download or clone repository
+
+cd direcotry-to-potree-main-folder>
+npm install --save
+npm install -g gulp
+npm install -g rollup
+npm i natives
+gulp watch
+
+Hope this helps 😄
+
+
+
+
+I was getting this error while I was using Gulp 3.9.1 and NodeJS 12.14.0.
+
+I have solved uninstalling NodeJS 12.14.0 and installing NodeJS 10.13.0 version.
+
+Then everything worked properly.

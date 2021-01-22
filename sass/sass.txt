@@ -1,0 +1,6 @@
+to install sass do that :
+
+1- install rubyinstaller
+2- but the C:\Ruby30-x64 in your path 
+3- write in cmd (gem install sass) you can download in npm but gem is still
+4- then write in css folder (sass -watch file.sass:file.css)

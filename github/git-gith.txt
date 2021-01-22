@@ -1,0 +1,23 @@
+download git
+
+##add git in your path :
+C:\Program Files\Git
+
+
+
+# if no uplade use this :
+@ git status --> is see your job 
+@ git log --> to see all commit
+@ git reset HEAD~1  --> to delete last commit 
+====
+new for repo :
+@ git init --> create initialize the repostoriy 
+@ git add * --> is all adds   or   git add readme.md  --> is add the one file 
+@ git commit -m "write here what you doing "
+@ git remote add origin https://github.com/yourname/repo.git
+@ git push origin master --> if don't work go to the another line 
+@ git push origin master --force  --> is uplode your projects 
+====
+update your repo :
+@ git pull origin master  --> this is for update 
+====
